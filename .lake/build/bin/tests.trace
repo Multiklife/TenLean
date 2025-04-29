@@ -1,0 +1,5 @@
+{"log":
+ [{"message":
+   ".> MACOSX_DEPLOYMENT_TARGET=99.0 /Users/multiklife/.elan/toolchains/leanprover--lean4---v4.18.0/bin/clang -o ././.lake/build/bin/tests ././.lake/build/ir/Test/Main.c.o.export ././.lake/build/ir/Ten/Axioms.c.o.export ././.lake/build/ir/Ten/Consistency.c.o.export --sysroot /Users/multiklife/.elan/toolchains/leanprover--lean4---v4.18.0 -L /Users/multiklife/.elan/toolchains/leanprover--lean4---v4.18.0/lib -L /Users/multiklife/.elan/toolchains/leanprover--lean4---v4.18.0/lib/libc -fuse-ld=lld -L /Users/multiklife/.elan/toolchains/leanprover--lean4---v4.18.0/lib/lean -lleancpp -lInit -lStd -lLean -lleanrt -lc++ -lLake -lgmp -luv",
+   "level": "trace"}],
+ "depHash": "817349962280900321"}

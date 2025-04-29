@@ -1,0 +1,5 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/build/lib/lean /Users/multiklife/.elan/toolchains/leanprover--lean4---v4.18.0/bin/lean -Dpp.unicode.fun=true -DautoImplicit=false ././././Ten/Consistency.lean -R ./././. -o ././.lake/build/lib/lean/Ten/Consistency.olean -i ././.lake/build/lib/lean/Ten/Consistency.ilean -c ././.lake/build/ir/Ten/Consistency.c --json",
+   "level": "trace"}],
+ "depHash": "9372406703314923974"}
